@@ -1104,7 +1104,7 @@ String.prototype.startsWith || (String.prototype.startsWith = function(e, t) {
         btn_search_body: "全文搜索",
         a_all: "全類別",
         lbl_count: "%1",
-        lbl_showing: "%2 項結果",
+        lbl_showing: "%1 項結果",
         lbl_filter: "從 %2 項結果中過濾出 %1 項",
         lbl_page: "%1 頁 %2/%3",
         clear_search: "<a href='#' onclick='od.action.list.clear_search();'>清除搜尋</a>",
